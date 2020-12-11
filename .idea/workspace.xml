@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c934c475-2234-4255-9666-5cfd22bb7759" name="Default Changelist" comment="" />
+    <list default="true" id="c934c475-2234-4255-9666-5cfd22bb7759" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ContactUs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ContactUs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SearchMovie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SearchMovie.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,12 +26,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lQadtKJv2M5NBLxALgEhUiGXuG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -40,7 +48,14 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestPlan.searchMovie">
+  <component name="RunManager" selected="TestNG.SearchMovies">
+    <configuration name="SearchMovie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchMovie" />
+      <module name="Automation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestPlan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestPlan" />
       <module name="MoMoviesProject" />
@@ -48,35 +63,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchMovie.verifyPageUrl" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="MoMoviesProject" />
+    <configuration name="SearchMovie" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SearchMovie" />
-      <option name="METHOD_NAME" value="verifyPageUrl" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPlan2.contactUs" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="MoMoviesProject" />
+    <configuration name="SearchMovie.moMediaSearch" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestPlan2" />
-      <option name="METHOD_NAME" value="contactUs" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestPlan.contactUs" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="MoMoviesProject" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestPlan" />
-      <option name="METHOD_NAME" value="contactUs" />
+      <option name="MAIN_CLASS_NAME" value="SearchMovie" />
+      <option name="METHOD_NAME" value="moMediaSearch" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -98,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.SearchMovies" />
+        <item itemvalue="TestNG.SearchMovie.moMediaSearch" />
+        <item itemvalue="Application.SearchMovies" />
         <item itemvalue="TestNG.TestPlan.searchMovie" />
         <item itemvalue="Application.TestPlan" />
-        <item itemvalue="TestNG.TestPlan.contactUs" />
-        <item itemvalue="TestNG.TestPlan2.contactUs" />
-        <item itemvalue="TestNG.SearchMovie.verifyPageUrl" />
       </list>
     </recent_temporary>
   </component>
@@ -127,5 +129,9 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
