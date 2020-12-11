@@ -46,7 +46,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.SearchMovies">
+  <component name="RunManager">
     <configuration name="SearchMovie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SearchMovie" />
       <module name="Automation" />
@@ -98,9 +98,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.SearchMovies" />
         <item itemvalue="TestNG.SearchMovie.moMediaSearch" />
-        <item itemvalue="Application.SearchMovies" />
+        <item itemvalue="Application.SearchMovie" />
+        <item itemvalue="TestNG.SearchMovie" />
         <item itemvalue="TestNG.TestPlan.searchMovie" />
         <item itemvalue="Application.TestPlan" />
       </list>
